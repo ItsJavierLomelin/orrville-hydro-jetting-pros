@@ -308,3 +308,7 @@ img { max-width:100%; }
 @media(max-width:600px){.fx-circle{display:none!important}}
 
 .hero{background:#1c64a4!important}.hero .chip{background:#155286!important}.hero .hero-copy{color:#fff!important}.eyebrow{color:#175d9e!important}.button-soft{background:#1c64a4!important;color:#fff!important}
+
+@media(max-width:600px){[data-parallax-stage]>.fx-circle,.hero .fx-circle,.hero-inner .fx-circle,.hero-form-wrap .fx-circle{display:none!important}}
+
+.dark-band .eyebrow{color:#cde7ff!important}.callout{background:#1c64a4!important}.callout p{color:#fff!important}
