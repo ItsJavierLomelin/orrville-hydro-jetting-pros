@@ -162,7 +162,7 @@
   },
   "pages": {
     "grease-and-sludge": {
-      "h1": "Grease and Sludge in Orrville, OH",
+      "h1": "Grease and Sludge Hydro Jetting in Orrville, OH",
       "title": "Grease and Sludge | Orrville Hydro Jetting Pros",
       "desc": "Kitchen use can leave deposits that keep narrowing a suitable line. Drain assessment and hydro jetting requests in Orrville.",
       "intro": "A slow sink does not prove grease is the cause. Report what the sink handles and whether other fixtures react before choosing a cleaning method. The city's comprehensive plan addresses downtown revitalization and connections to Orr Park.",
@@ -196,7 +196,7 @@
       ]
     },
     "tree-root-intrusions": {
-      "h1": "Tree Root Intrusions in Orrville, OH",
+      "h1": "Orrville Tree Root Drain Cleaning",
       "title": "Tree Root Intrusions | Orrville Hydro Jetting Pros",
       "desc": "Roots require an assessment of the opening that allowed them into the pipe. Drain assessment and hydro jetting requests in Orrville.",
       "intro": "Visible trees are not proof of roots inside a drain. Camera findings and the location of a joint or defect are more useful than guessing from the landscaping. The service department identifies North Elm Street between Market and High streets.",
@@ -230,7 +230,7 @@
       ]
     },
     "recurring-clogs": {
-      "h1": "Recurring Clogs in Orrville, OH",
+      "h1": "Hydro Jetting for Recurring Clogs in Orrville",
       "title": "Recurring Clogs | Orrville Hydro Jetting Pros",
       "desc": "A recurring blockage deserves a record of what previous cleaning did and did not establish. Drain assessment and hydro jetting requests in Orrville.",
       "intro": "Describe how long flow improved after the last cleaning. Note which fixtures reacted first and whether the same pattern returned or the symptom changed. The city lists Crown Hill Road between Paradise Road and High Street.",
@@ -264,7 +264,7 @@
       ]
     },
     "mineral-buildup": {
-      "h1": "Mineral Buildup in Orrville, OH",
+      "h1": "Mineral Buildup in Orrville Drains: Assess the Line",
       "title": "Mineral Buildup | Orrville Hydro Jetting Pros",
       "desc": "Deposits should be identified before a method is chosen. Drain assessment and hydro jetting requests in Orrville.",
       "intro": "A narrowing drain may involve deposits, debris or a structural problem. An inspection should distinguish them rather than infer mineral buildup from the water supply or the street address. The city identifies Dogwood Drive between Hostetler and Apple Blossom.",
@@ -298,7 +298,7 @@
       ]
     },
     "preventative-maintenance": {
-      "h1": "Preventative Maintenance in Orrville, OH",
+      "h1": "Orrville Preventative Hydro Jetting Services",
       "title": "Preventative Maintenance | Orrville Hydro Jetting Pros",
       "desc": "Drain maintenance should follow actual use and inspection findings rather than a neighborhood-wide timetable. Drain assessment and hydro jetting requests in Orrville.",
       "intro": "Keep records of prior blockages, accessible cleanouts and changes in occupancy or building use. Those details help make a maintenance discussion specific to the property. The street list names Kenwood Drive between Crown Hill and Lee.",
@@ -472,7 +472,14 @@
           "h": "Drain cleaning around Downtown Orrville",
           "ps": [
             "The city's comprehensive plan addresses downtown revitalization and connections to Orr Park.",
-            "This page covers a downtown commercial and mixed-use area inside Orrville. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a downtown commercial and mixed-use area inside Orrville. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A storefront with a shared route",
+          "ps": [
+            "Orrville\u2019s downtown planning concerns its traditional commercial center. For a storefront, clarify whether the affected drain is exclusive to the unit or connects with other occupied space. Ask the owner or manager for route information before assuming the tenant can authorize cleaning of the whole connection."
           ]
         },
         {
@@ -518,6 +525,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The city's comprehensive plan addresses downtown revitalization and connections to Orr Park. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a storefront with a shared route?",
+          "a": "Orrville\u2019s downtown planning concerns its traditional commercial center. For a storefront, clarify whether the affected drain is exclusive to the unit or connects with other occupied space. Ask the owner or manager for route information before assuming the tenant can authorize cleaning of the whole connection."
         }
       ],
       "cta": "Request Hydro Jetting near Downtown Orrville",
@@ -526,7 +537,7 @@
     {
       "slug": "north-elm-street",
       "name": "North Elm Street",
-      "h1": "Hydro Jetting in North Elm Street, Orrville, OH",
+      "h1": "Hydro Jetting in North Elm Street, Orrville, OH: Drain Planning",
       "title": "North Elm Street Hydro Jetting | Orrville Hydro Jetting Pros",
       "description": "Drain-planning advice for North Elm Street in Orrville, Ohio, with inspection questions and a service request form.",
       "intro": "The service department identifies North Elm Street between Market and High streets.",
@@ -536,7 +547,14 @@
           "h": "Drain cleaning around North Elm Street",
           "ps": [
             "The service department identifies North Elm Street between Market and High streets.",
-            "This page covers a documented street segment inside Orrville. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a documented street segment inside Orrville. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A street segment and an exact address",
+          "ps": [
+            "The city names the North Elm segment between Market and High. That helps locate the area but does not establish any house\u2019s pipe age. Include the exact address, affected fixtures and the first sign of a slowdown so the assessment focuses on the right connection."
           ]
         },
         {
@@ -582,6 +600,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The service department identifies North Elm Street between Market and High streets. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a street segment and an exact address?",
+          "a": "The city names the North Elm segment between Market and High. That helps locate the area but does not establish any house\u2019s pipe age. Include the exact address, affected fixtures and the first sign of a slowdown so the assessment focuses on the right connection."
         }
       ],
       "cta": "Request Hydro Jetting near North Elm Street",
@@ -590,7 +612,7 @@
     {
       "slug": "crown-hill-road",
       "name": "Crown Hill Road",
-      "h1": "Hydro Jetting in Crown Hill Road, Orrville, OH",
+      "h1": "Hydro Jetting in Crown Hill Road, Orrville, OH | For Homeowners",
       "title": "Crown Hill Road Hydro Jetting | Orrville Hydro Jetting Pros",
       "description": "Drain-planning advice for Crown Hill Road in Orrville, Ohio, with inspection questions and a service request form.",
       "intro": "The city lists Crown Hill Road between Paradise Road and High Street.",
@@ -600,7 +622,14 @@
           "h": "Drain cleaning around Crown Hill Road",
           "ps": [
             "The city lists Crown Hill Road between Paradise Road and High Street.",
-            "This page covers a street corridor inside Orrville. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a street corridor inside Orrville. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A cleanout and the approach to it",
+          "ps": [
+            "The city lists the Crown Hill corridor between Paradise and High. At a property on that route, describe the access needed to reach the drain, including any known cleanout. A road corridor is not a service boundary or a guarantee that a particular approach is available."
           ]
         },
         {
@@ -646,6 +675,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The city lists Crown Hill Road between Paradise Road and High Street. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a cleanout and the approach to it?",
+          "a": "The city lists the Crown Hill corridor between Paradise and High. At a property on that route, describe the access needed to reach the drain, including any known cleanout. A road corridor is not a service boundary or a guarantee that a particular approach is available."
         }
       ],
       "cta": "Request Hydro Jetting near Crown Hill Road",
@@ -654,7 +687,7 @@
     {
       "slug": "dogwood-drive",
       "name": "Dogwood Drive",
-      "h1": "Hydro Jetting in Dogwood Drive, Orrville, OH",
+      "h1": "Hydro Jetting in Dogwood Drive, Orrville, OH: Assess the Line",
       "title": "Dogwood Drive Hydro Jetting | Orrville Hydro Jetting Pros",
       "description": "Drain-planning advice for Dogwood Drive in Orrville, Ohio, with inspection questions and a service request form.",
       "intro": "The city identifies Dogwood Drive between Hostetler and Apple Blossom.",
@@ -664,7 +697,14 @@
           "h": "Drain cleaning around Dogwood Drive",
           "ps": [
             "The city identifies Dogwood Drive between Hostetler and Apple Blossom.",
-            "This page covers a residential street segment inside Orrville. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a residential street segment inside Orrville. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A symptom after household use",
+          "ps": [
+            "Dogwood Drive\u2019s named street segment provides an address context. If the slowdown follows laundry or kitchen discharge, record the order in which fixtures react. That pattern can help distinguish a single branch problem from one farther downstream without guessing from the subdivision."
           ]
         },
         {
@@ -710,6 +750,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The city identifies Dogwood Drive between Hostetler and Apple Blossom. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a symptom after household use?",
+          "a": "Dogwood Drive\u2019s named street segment provides an address context. If the slowdown follows laundry or kitchen discharge, record the order in which fixtures react. That pattern can help distinguish a single branch problem from one farther downstream without guessing from the subdivision."
         }
       ],
       "cta": "Request Hydro Jetting near Dogwood Drive",
@@ -718,7 +762,7 @@
     {
       "slug": "kenwood-drive",
       "name": "Kenwood Drive",
-      "h1": "Hydro Jetting in Kenwood Drive, Orrville, OH",
+      "h1": "Hydro Jetting in Kenwood Drive, Orrville, OH | For Property Managers",
       "title": "Kenwood Drive Hydro Jetting | Orrville Hydro Jetting Pros",
       "description": "Drain-planning advice for Kenwood Drive in Orrville, Ohio, with inspection questions and a service request form.",
       "intro": "The street list names Kenwood Drive between Crown Hill and Lee.",
@@ -728,7 +772,14 @@
           "h": "Drain cleaning around Kenwood Drive",
           "ps": [
             "The street list names Kenwood Drive between Crown Hill and Lee.",
-            "This page covers a residential access corridor inside Orrville. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a residential access corridor inside Orrville. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A home with incomplete repair records",
+          "ps": [
+            "The city names Kenwood between Crown Hill and Lee. When repair records for a property are incomplete, say which sections are known to have changed and which remain uncertain. Ask how far an accessible inspection can follow the route before agreeing on a method."
           ]
         },
         {
@@ -774,6 +825,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The street list names Kenwood Drive between Crown Hill and Lee. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a home with incomplete repair records?",
+          "a": "The city names Kenwood between Crown Hill and Lee. When repair records for a property are incomplete, say which sections are known to have changed and which remain uncertain. Ask how far an accessible inspection can follow the route before agreeing on a method."
         }
       ],
       "cta": "Request Hydro Jetting near Kenwood Drive",
@@ -782,7 +837,7 @@
     {
       "slug": "jefferson-avenue",
       "name": "Jefferson Avenue",
-      "h1": "Hydro Jetting in Jefferson Avenue, Orrville, OH",
+      "h1": "Hydro Jetting in Jefferson Avenue, Orrville, OH: Cleaning Options",
       "title": "Jefferson Avenue Hydro Jetting | Orrville Hydro Jetting Pros",
       "description": "Drain-planning advice for Jefferson Avenue in Orrville, Ohio, with inspection questions and a service request form.",
       "intro": "The city identifies Jefferson Avenue between Ella and Elm.",
@@ -792,7 +847,14 @@
           "h": "Drain cleaning around Jefferson Avenue",
           "ps": [
             "The city identifies Jefferson Avenue between Ella and Elm.",
-            "This page covers a within-city street area inside Orrville. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a within-city street area inside Orrville. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "Planning when several occupants use the drain",
+          "ps": [
+            "Jefferson Avenue is documented between Ella and Elm. If more than one household or unit uses a connection, coordinate the symptom history and permission for access. The address alone cannot determine whether a line is shared, so have the responsible person confirm it."
           ]
         },
         {
@@ -838,6 +900,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The city identifies Jefferson Avenue between Ella and Elm. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about planning when several occupants use the drain?",
+          "a": "Jefferson Avenue is documented between Ella and Elm. If more than one household or unit uses a connection, coordinate the symptom history and permission for access. The address alone cannot determine whether a line is shared, so have the responsible person confirm it."
         }
       ],
       "cta": "Request Hydro Jetting near Jefferson Avenue",
@@ -846,7 +912,7 @@
     {
       "slug": "east-high-street",
       "name": "East High Street",
-      "h1": "Hydro Jetting in East High Street, Orrville, OH",
+      "h1": "Hydro Jetting in East High Street, Orrville, OH | Drain Care",
       "title": "East High Street Hydro Jetting | Orrville Hydro Jetting Pros",
       "description": "Drain-planning advice for East High Street in Orrville, Ohio, with inspection questions and a service request form.",
       "intro": "The street list names East High Street between Main and Mill.",
@@ -856,7 +922,14 @@
           "h": "Drain cleaning around East High Street",
           "ps": [
             "The street list names East High Street between Main and Mill.",
-            "This page covers a central street corridor inside Orrville. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a central street corridor inside Orrville. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A central connection with repeated backups",
+          "ps": [
+            "The city lists East High between Main and Mill. For a returning backup, compare the most recent symptoms with those before earlier work. Ask what the earlier visit found, rather than treat a brief return of flow as proof that the original cause was settled."
           ]
         },
         {
@@ -902,6 +975,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The street list names East High Street between Main and Mill. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a central connection with repeated backups?",
+          "a": "The city lists East High between Main and Mill. For a returning backup, compare the most recent symptoms with those before earlier work. Ask what the earlier visit found, rather than treat a brief return of flow as proof that the original cause was settled."
         }
       ],
       "cta": "Request Hydro Jetting near East High Street",
